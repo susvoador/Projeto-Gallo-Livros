@@ -1,0 +1,173 @@
+[
+    {
+        "Numero": 1,
+        "Nome": "Quincas Borba",
+        "Autor": "Machado de assis", 
+        "Descricao": "Quincas Borba é um romance realista de Machado de Assis. Conta a história de Rubião, um professor de Barbacena que herda os bens de seu amigo Quincas Borba, com a condição de cuidar do cão do falecido, que possui o mesmo nome do dono, ou seja, Quincas Borba.",
+        "Genero": ["Romance" , "Ficção"],
+        "Paginas": 240,
+        "Imagem": "\\img\\Livros\\001.jpg"
+    },
+    {
+        "Numero": 2,
+        "Nome": "Percy Jackson: O ladrão de raios",
+        "Autor": "Rick Riordan", 
+        "Descricao": "Percy Jackson, de 12 anos, é um deles, mas acaba sendo acusado de ter roubado o raio de Zeus. Com a ajuda do sátiro Grover e de Annabeth, uma filha de Atena, ele deve cruzar os Estados Unidos para descobrir o verdadeiro ladrão, retomar o raio e evitar uma guerra no Olimpo entre Zeus e seu pai.",
+        "Genero": ["Ficção", "Fantasia"],
+        "Paginas": 400 ,
+        "Imagem": "\\img\\Livros\\002.jpg"
+    },
+    {
+        "Numero": 3,
+        "Nome": "Percy Jackson: O mar de monstros",
+        "Autor": "Rick Riordan", 
+        "Descricao": "Percy e seus amigos precisam se aventurar no Mar de Monstros para buscar o único artefato capaz de salvar o acampamento. Antes, porém, nosso herói entrará em confronto com a verdadeira natureza de seu amigo Tyson - algo que o fará questionar se ser filho de Poseidon é uma honra ou uma terrível maldição.",
+        "Genero": ["Ficção" , "Fantasia"],
+        "Paginas": 304 ,
+        "Imagem": "\\img\\Livros\\003.jpg"
+    },
+    {
+        "Numero": 4,
+        "Nome": "Percy Jackson: A maldição do titã",
+        "Autor": "Rick Riordan", 
+        "Descricao": "Um monstro ancestral foi despertado - um ser com poder suficiente para destruir o Olimpo -, e Ártemis, a única deusa capaz de encontrá-lo, desapareceu. Percy e seus amigos têm apenas uma semana para resgatar a deusa sequestrada e solucionar o mistério que ronda o monstro que ela caçava.",
+        "Genero": ["Ficção" , "Fantasia"],
+        "Paginas": 336,
+        "Imagem": "\\img\\Livros\\004.jpg"
+    },
+    {
+        "Numero":5,
+        "Nome": "Percy Jackson: A batalha do labirinto",
+        "Autor": "Rick Riordan", 
+        "Descricao": "O Monte Olimpo está em perigo. Cronos, o perverso titã que foi destronado e feito em pedaços pelos doze deuses olimpianos, prepara um retorno triunfal. O primeiro passo de suas tropas será atacar e destruir o campo de treinamento dos heróis, filhos de deuses com mortais, que desde a Grécia Antiga combatem na linha de frente em defesa dos olimpianos.",
+        "Genero": ["Ficção" , "Fantasia"],
+        "Paginas": 392,
+        "Imagem": "\\img\\Livros\\005.jpg"
+    },
+    {
+        "Numero": 6,
+        "Nome": "Percy Jackson: O último Olimpiano",
+        "Autor": "Rick Riordan", 
+        "Descricao": "Enquanto os Olimpianos se ocupam de conter a fúria do monstro Tifão, Cronos avança em direção à cidade de Nova York, onde o Monte Olimpo está precariamente vigiado. Agora, apenas Percy Jackson e seu exército de heróis podem deter o Senhor do Tempo.",
+        "Genero": ["Ficção" , "Fantasia"],
+        "Paginas": 384,
+        "Imagem": "\\img\\Livros\\006.jpg"
+    },
+    {
+        "Numero": 7,
+        "Nome": "Jogos vorazes",
+        "autor": "Suzanne Collins" ,
+        "Descricao": "Quando Katniss Everdeen, de 16 anos, decide participar dos Jogos Vorazes para poupar a irmã mais nova, causando grande comoção no país, ela sabe que essa pode ser a sua sentença de morte. Mas a jovem usa toda a sua habilidade de caça e sobrevivência ao ar livre para se manter viva.",
+        "Genero": ["Ficção", "Distopia"],
+        "Paginas": 387 ,
+        "Imagem": "\\img\\Livros\\007.jpg"
+    },
+    {
+        "Numero": 8,
+        "Nome": "Em chamas",
+        "autor": "Suzanne Collins" ,
+        "Descricao": "A cada 25 anos acontece uma edição especial dos Jogos, o “Massacre Quaternário” e então as regras são diferentes. Nessa edição os tributos que já venceram os jogos anteriores deverão retornar a arena! Ainda serão um casal de tributos de cada distrito, mas serão escolhidos entre os vitoriosos",
+        "Genero": ["Ficção", "Distopia"],
+        "Paginas":  403,
+        "Imagem": "\\img\\pokemons\\008.jpg"
+    },
+    {
+        "Numero": 9,
+        "Nome": "A esperança",
+        "autor": "Suzanne Collins" ,
+        "Descricao": "O fim da Segunda Revolução finalmente chegou e a morte de Snow ficou na mão da Katniss. Seguindo sempre seu coração, ela decidiu e mudou o rumo do fim da Guerra. No fim de tudo isso, com a política e o país finalmente se recuperando, a protagonista volta para o Bairro dos Vencedores do distrito 12 e segue com sua vida.",
+        "Genero": ["Ficção", "Distopia"],
+        "Paginas": 424 ,
+        "Imagem": "\\img\\Livros\\009.jpg"
+    },
+    {
+        "Numero": 10,
+        "Nome": "A cantiga dos pássaros e das serpentes",
+        "autor": "Suzanne Collins" ,
+        "Descricao": "É a manhã do dia da colheita que iniciará a décima edição dos Jogos Vorazes. Na Capital, o jovem de dezoito anos Coriolanus Snow se prepara para sua oportunidade de glória como um mentor dos Jogos. A outrora importante casa Snow passa por tempos difíceis e o destino dela depende da pequena chance de Coriolanus ser capaz de encantar, enganar e manipular seus colegas estudantes para conseguir mentorar o tributo vencedor.",
+        "Genero": ["Ficção", "Distopia"],
+        "Paginas": 576 ,
+        "Imagem": "\\img\\Livros\\010.png"
+    },
+    {
+        "Numero": 11,
+        "Nome": "Dom casmurro",
+        "Autor":"Machado de assis",
+        "Descricao": "Dom Casmurro conta a história de Bento Santiago (Bentinho), apelidado de Dom Casmurro por ser calado e introvertido. Na adolescência, apaixona-se por Capítu, abandonando o seminário e, com ele, os desígnios traçados por sua mãe, Dona Glória, para que se tornasse padre.",
+        "Genero": ["Ficção", "Romance"],
+        "Paginas":  400 ,
+        "Imagem": "\\img\\Livros\\011.jpg"
+    },
+    {
+        "Numero": 12,
+        "Nome": "Orgulho e preconceito",
+        "autor": "Jane Austen", 
+        "Descricao": "retrata uma história de amor em meio ao século XIX. Sobretudo, a trama gira em torno de um amor improvável, entre os personagens Lizzie e Darcy. Ou seja, um homem grosseiro e uma mulher contra os ditames do matrimônio, acabam se apaixonando.",
+        "Genero": ["Ficção", "Romance"],
+        "Paginas": 424,
+        "Imagem": "\\img\\Livros\\012.jpg"
+    },
+    {
+        "Numero": 13,
+        "Nome": "Alice no país das maravilhas",
+        "Autor": "Lewis Carroll", 
+        "Descricao": "Alice é uma menina inteligente e observadora que embarca em uma viagem para o País das Maravilhas, um mundo onde tudo parece ser diferente daquilo que ela conhece. A protagonista simboliza a curiosidade e a imaginação que todos temos na infância.",
+        "Genero": ["Ficção", "Fantasia"],
+        "Paginas": 224,
+        "Imagem": "\\img\\Livros\\013.jpg"
+    },
+    {
+        "Numero": 14,
+        "Nome": "Duna",
+        "autor": "Frank Herbert", 
+        "Descricao": " O Duque Leto Atreides administra o planeta desértico Arrakis, também conhecido como Duna, lugar de única fonte da substância rara chamada de melange, usada para estender a vida humana, chegar a velocidade da luz e garantir poderes sobrehumanos.",
+        "Genero": ["Ficção", "Ficção científica"],
+        "Paginas": 608,
+        "Imagem": "\\img\\Livros\\014.jpg"
+    },
+    {
+        "Numero": 15,
+        "Nome": "Messias de Duna",
+        "autor": "Frank Herbert",
+        "Descricao": "é o segundo romance da série de ficção científica. Ela revela um lado mais humano de seus personagens, além de aprofundar e estender o universo de Duna, aliando discussões políticas, filosóficas e religiosas à épica história de poder, vingança e redenção.",
+        "Genero": ["Ficção", "Ficção científica"],
+        "Paginas": 272 ,
+        "Imagem": "\\img\\Livros\\015.jpg"
+    },
+    {
+        "Numero": 16,
+        "Nome": "Filhos de Duna",
+        "autor": "Frank Herbert",
+        "Descricao": "O Imperium vive um interregno após Paul Atreides abdicar de seu título de imperador e entregar-se ao deserto. Sua irmã, Alia, ascende ao poder como regente enquanto os filhos de Muad'Dib não são capazes de assumir o Trono do Leão.",
+        "Genero": ["Ficção", "Ficção científica"],
+        "Paginas": 528 ,
+        "Imagem": "\\img\\Livros\\016.jpg"
+    },
+    {
+        "Numero": 17,
+        "Nome": "Imperador Deus de Duna",
+        "autor": "Frank Herbert",
+        "Descricao": "O Imperador Deus de Duna, que garantiu uma paz forçada em todos os planetas, consegue entender o futuro, e sabe, com uma terrível certeza, que sua raça será extinta a menos que ele crie novas qualidades para a espécie. As regras do Imperador não são benevolentes. Sua transformação não deixou apenas sua aparência desumana, mas também seu senso de moral.",
+        "Genero": ["Ficção", "Ficção científica"],
+        "Paginas": 512,
+        "Imagem": "\\img\\Livros\\017.jpg"
+    },
+    {
+        "Numero": 18,
+        "Nome": "Hereges de Duna",
+        "autor": "Frank Herbert",
+        "Descricao": "Do deserto ao verde fértil e de volta à aridez, o mundo completou um ciclo e foi abandonado por milhões de habitantes, que por milênios tiveram suas ambições destruídas. Agora, o povo da Dispersão está retornando dos lugares mais distantes do universo, dividido em facções que buscam poder sobre o que restou do Império.",
+        "Genero": ["Ficção", "Ficção científica"],
+        "Paginas": 568,
+        "Imagem": "\\img\\Livros\\018.jpg"
+    },
+    {
+        "Numero": 19,
+        "Nome": "Herdeiras de Duna",
+        "autor": "Frank Herbert",
+        "Descricao": "Último livro escrito por Frank Herbert, As Herdeiras de Duna fecha maravilhosamente a série original. Seu enredo empolgante, aliado ao rico universo histórico, filosófico e religioso da saga, confirma ainda mais a Série Duna como uma das jornadas mais extraordinárias da ficção científica mundial.",
+        "Genero": ["Ficção", "Ficção científica"],
+        "Paginas": 528,
+        "Imagem": "\\img\\Livros\\019.jpg"
+    }
+]

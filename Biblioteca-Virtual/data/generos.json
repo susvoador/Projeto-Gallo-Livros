@@ -1,0 +1,22 @@
+[
+    {
+        "Nome": "ficção",
+        "Cor": "#fc3"
+    },
+    {
+        "Nome": "Romance",
+        "Cor": "#f42"
+    },
+    {
+        "Nome": "Ficção Científica",
+        "Cor": "#66b"
+    },
+    {
+        "Nome": "Distopia",
+        "Cor": "#754"
+    },
+    {
+        "Nome": "Fantasia",
+        "Cor": "#76e"
+    }
+]
