@@ -1,6 +1,6 @@
 namespace Biblioteca_Virtual.Models;
-public class PokedexDto
+public class bibliotecaDto
 {
-public List<Genero> generos { get; set; }
+public List<Genero> Generos { get; set; }
 public List<Livro> Livros { get; set; }
 }
