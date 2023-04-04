@@ -3,7 +3,7 @@ using Biblioteca_Virtual.Models;
 
 namespace Biblioteca_Virtual.services;
 
-public class BibliService : IBilbiService
+public class BibliService : IBibliService
 {
     private readonly IHttpContextAccessor _session; 
     private readonly string LivroFile = @"Data\Livros.json"; 
@@ -25,9 +25,9 @@ public class BibliService : IBilbiService
     public List<Genero> GetGeneros()
     {
         PopularSessao(); 
-        var generos = JsonSerializer.Deserialize<List<Genero>>
-            (_session.HttpContext.Session.GetString("Gêneros"));
-        return generos; 
+        var Generos = JsonSerializer.Deserialize<List<Genero>>
+            (_session.HttpContext.Session.GetString("Generos"));
+        return Generos; 
     }
 
     public Livro GetLivro(int Numero)

@@ -69,7 +69,7 @@
         "Descricao": "A cada 25 anos acontece uma edição especial dos Jogos, o “Massacre Quaternário” e então as regras são diferentes. Nessa edição os tributos que já venceram os jogos anteriores deverão retornar a arena! Ainda serão um casal de tributos de cada distrito, mas serão escolhidos entre os vitoriosos",
         "Genero": ["Ficção", "Distopia"],
         "Paginas":  403,
-        "Imagem": "\\img\\pokemons\\008.jpg"
+        "Imagem": "\\img\\Livros\\008.jpg"
     },
     {
         "Numero": 9,
@@ -119,54 +119,54 @@
     {
         "Numero": 14,
         "Nome": "Duna",
-        "autor": "Frank Herbert", 
+        "Autor": "Frank Herbert", 
         "Descricao": " O Duque Leto Atreides administra o planeta desértico Arrakis, também conhecido como Duna, lugar de única fonte da substância rara chamada de melange, usada para estender a vida humana, chegar a velocidade da luz e garantir poderes sobrehumanos.",
-        "Genero": ["Ficção", "Ficção científica"],
+        "Genero": ["Ficção", "Ficção-Científica"],
         "Paginas": 608,
         "Imagem": "\\img\\Livros\\014.jpg"
     },
     {
         "Numero": 15,
         "Nome": "Messias de Duna",
-        "autor": "Frank Herbert",
+        "Autor": "Frank Herbert",
         "Descricao": "é o segundo romance da série de ficção científica. Ela revela um lado mais humano de seus personagens, além de aprofundar e estender o universo de Duna, aliando discussões políticas, filosóficas e religiosas à épica história de poder, vingança e redenção.",
-        "Genero": ["Ficção", "Ficção científica"],
+        "Genero": ["Ficção", "Ficção-Científica"],
         "Paginas": 272 ,
         "Imagem": "\\img\\Livros\\015.jpg"
     },
     {
         "Numero": 16,
         "Nome": "Filhos de Duna",
-        "autor": "Frank Herbert",
+        "Autor": "Frank Herbert",
         "Descricao": "O Imperium vive um interregno após Paul Atreides abdicar de seu título de imperador e entregar-se ao deserto. Sua irmã, Alia, ascende ao poder como regente enquanto os filhos de Muad'Dib não são capazes de assumir o Trono do Leão.",
-        "Genero": ["Ficção", "Ficção científica"],
+        "Genero": ["Ficção", "Ficção-Científica"],
         "Paginas": 528 ,
         "Imagem": "\\img\\Livros\\016.jpg"
     },
     {
         "Numero": 17,
         "Nome": "Imperador Deus de Duna",
-        "autor": "Frank Herbert",
+        "Autor": "Frank Herbert",
         "Descricao": "O Imperador Deus de Duna, que garantiu uma paz forçada em todos os planetas, consegue entender o futuro, e sabe, com uma terrível certeza, que sua raça será extinta a menos que ele crie novas qualidades para a espécie. As regras do Imperador não são benevolentes. Sua transformação não deixou apenas sua aparência desumana, mas também seu senso de moral.",
-        "Genero": ["Ficção", "Ficção científica"],
+        "Genero": ["Ficção", "Ficção-Científica"],
         "Paginas": 512,
         "Imagem": "\\img\\Livros\\017.jpg"
     },
     {
         "Numero": 18,
         "Nome": "Hereges de Duna",
-        "autor": "Frank Herbert",
+        "Autor": "Frank Herbert",
         "Descricao": "Do deserto ao verde fértil e de volta à aridez, o mundo completou um ciclo e foi abandonado por milhões de habitantes, que por milênios tiveram suas ambições destruídas. Agora, o povo da Dispersão está retornando dos lugares mais distantes do universo, dividido em facções que buscam poder sobre o que restou do Império.",
-        "Genero": ["Ficção", "Ficção científica"],
+        "Genero": ["Ficção", "Ficção-Científica"],
         "Paginas": 568,
         "Imagem": "\\img\\Livros\\018.jpg"
     },
     {
         "Numero": 19,
         "Nome": "Herdeiras de Duna",
-        "autor": "Frank Herbert",
+        "Autor": "Frank Herbert",
         "Descricao": "Último livro escrito por Frank Herbert, As Herdeiras de Duna fecha maravilhosamente a série original. Seu enredo empolgante, aliado ao rico universo histórico, filosófico e religioso da saga, confirma ainda mais a Série Duna como uma das jornadas mais extraordinárias da ficção científica mundial.",
-        "Genero": ["Ficção", "Ficção científica"],
+        "Genero": ["Ficção", "Ficção-Científica"],
         "Paginas": 528,
         "Imagem": "\\img\\Livros\\019.jpg"
     }

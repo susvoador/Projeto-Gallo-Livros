@@ -1,7 +1,7 @@
 using Biblioteca_Virtual.Models;
 namespace Biblioteca_Virtual.services; 
 
-public interface IBilbiService
+public interface IBibliService
 {
         List<Livro> GetLivros(); 
         List<Genero> GetGeneros();
